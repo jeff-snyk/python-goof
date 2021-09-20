@@ -4,6 +4,7 @@ version = "1.0.0"
 description = "A simple python package to illustrate dependency management with Poetry"
 authors = ['Snyk']
 
+
 [tool.poetry.dependencies]
 python = "^3.6"
 jinja2 = "2.10.1"
